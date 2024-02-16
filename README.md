@@ -1,1 +1,3 @@
 # Data-Warehouse-Project
+- A constellation schema was designed and implemented to integrate data from the CPI Card company’s ERP database, Marketing Data, and financial summaries. Data transformation processes were developed using Pentaho Data Integration, including the establishment of data validation rules and monitoring mechanisms to ensure data quality and reliability for analysis and reporting.
+- SQL queries were crafted for detailed analysis of sales, costs, job performance, shipment performance, invoice trends, and financial performance thereby enhancing data-driven decision-making capabilities within the organization.
